@@ -1,0 +1,17 @@
+****** METHOD OF HACKING ******
+
+
+
+Reconnaissance -------> Enumeration ---------->Gaining access ---------->post exploitation(Maintaining access) ---------->covering tracks ---------->Repoting
+
+reconnaissance = gathering much as information abiut the target to know what to do
+
+enumaration = it is the process of extracting adetailed information about a target using the help of a active connection
+
+gaining access = the attacker use the details gained during the scanning(vulnerable ports) to gain a strong access
+
+post expolatation = it is the process of maintaining the gained access without the knowledge of the target
+
+covering tracks = after the attack the attacker need to make sure the path are cleared(logs)
+
+repoting = it is a optional phase this only a EH are us they take a note and prepare a report to the company ho hired them
