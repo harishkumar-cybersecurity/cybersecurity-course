@@ -1,1 +1,31 @@
-
+lINUX CBASIC CMD LINUX BASIC CMD
+PWD - TO KNOW THW CURRENT PATH
+CD - CHANGE THE DIRECTRY
+ls -list all the iteam in the current dirctry
+touch - to create a new file
+sudo su - to gain the root access
+chmod -to change the permission of the file
+nano - us to create a file 
+cat - to display the content present in the file
+echo - use to repet the content type in the terminal and also use to xchange the old content in the file to a new content
+exit -it cancle and back from all including sudo
+mkdir -use to make a directry
+rmkdi -remove a empty folder
+rmkdir -r -remove all type of folder
+cp -copy the file
+mv  -move the file
+less - to reduce a large content of display
+head -cetain top number of content only get display
+find,locate,wheris - to locate a file or folder
+whoami - to know the user
+ifconfig - to know the detail abou the ip address 
+top - shows tha linux task bar
+crtl+c - to escape
+ps aux - all the usage
+df -h - disk usage
+du -sh - folder size
+up time - usage time
+apt update - update all the tool
+apt upgrade - upgrade all the update 
+man -command to know
+history - can see all previosly typed command
