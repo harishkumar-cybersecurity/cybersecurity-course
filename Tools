@@ -1,1 +1,25 @@
+                                                                                   Recon-ng
+========================================================================================================================================================================================================================
 
+
+to start the recon ng tool in linux = recon-ng
+using the -w cmd then the workspaces name it take you directly to the particular workspaces( recon-ng -w example_name )
+=========================================================================================================================================================================================================================
+workspaces are the seprate folders like structure it can help the user to work on the different work at seprate work spaces 
+workspaces cmd  workspaces <create|list|load|remove> these are the basic cmd in workspaces 
+CREATE = is used to create a new new workspace
+LIST = is used to list the created workspaces 
+LOAD = it is use to chage the directry of the workspaces
+REMOVE = is used to delete the workspaces
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Modules ( it  all are need to type after the marketplace cmd)
+these are the modules of recon-ng 
+- discovery
+- exploitation
+- import
+- recon 
+- reporting
+
+Marketplace search
+Marketplace search brings up the full table . The user can be more specify like ssh or ssh tool it sort the list only based on the search (recon-ng][default] >marketplace search ssl)
+to find more about the tool we need to use marketplace info  (marketplace info ssltools )
